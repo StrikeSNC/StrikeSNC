@@ -1,6 +1,6 @@
 <h1>Hey there! 👋🏻</h1>
 <h3>This is a ✨ special ✨ repository because its README.md (this file) appears on my GitHub profile.</h3>
-<h4>I am currently not active on here, but you might find something that is interesting later.</h4>
+<h4>I am currently not working much, but you might find something that is interesting later!</h4>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/314706426666680321
                             )](https://discord.com/users/314706426666680321)
